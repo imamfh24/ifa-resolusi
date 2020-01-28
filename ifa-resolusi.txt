@@ -4,5 +4,5 @@ IFA RESOLUSI
 - Belajar bahasa Java, PHP, C#
 - Selesaikan Pemrograman Game
 - Buat Konten youtube
-- Nge GYM
+- Membuat Website
 - Belajar Bahasa Inggris dan Bahasa Jepang
