@@ -6,3 +6,4 @@ Rencana Konten IFA
  *Dasar-Dasar PHP
 - C#
 - Unity
+- Phyton
